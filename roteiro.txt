@@ -1,0 +1,3 @@
+react-native init MobileAirBnbClone
+
+npm install axios prop-types react-navigation styled-components
